@@ -121,6 +121,16 @@ p {
     color: #172a4c;
 }
 
+.number-p:hover {
+    background-color: #faf9f6;
+    color: #172a4c;
+}
+
+.special-p:hover {
+    background-color: #faf9f6;
+    color: #172a4c;
+}
+
 .number-p {
     display: inline;
     font-size: 50px;
